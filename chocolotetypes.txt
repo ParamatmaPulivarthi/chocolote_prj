@@ -1,0 +1,3 @@
+chocolotename~price
+cadbare~12
+fivestar~5
